@@ -11,4 +11,8 @@ Creating a new branch is quick AND simple.
 add merge
 add merge2
 add merge3
+<<<<<<< HEAD
 adding learngit
+=======
+add learngit2
+>>>>>>> d780981b304302583cc0c12fb69e880153978415
