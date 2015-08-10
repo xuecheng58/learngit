@@ -10,3 +10,4 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 add merge
 add merge2
+add merge3
